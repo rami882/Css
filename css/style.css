@@ -1,0 +1,71 @@
+.title{
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(214, 214, 214);
+    background-color: rgba(0, 0, 0, 0.637);
+    text-decoration: solid;
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav{  font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+    box-shadow: thistle;
+    text-align: center;
+}
+#blue-bordered {
+    border:transparent rgb(0,0,0); background-color: rgb(255, 255, 255);
+    background: content-box;
+}
+header{
+background-color: rgb(177, 71, 71);
+}
+body{
+    background-color: tomato;
+    font-family: 'Roboto', sans-serif;
+    background-attachment: fixed;
+}
+h1 {
+	color: rgb(0, 0, 0);
+	font-family: roboto;
+	text-align :auto; background-color: rgb(255, 255, 255);
+    margin-left: 500px;
+    margin-right: 500px;
+}
+.box p{
+    color: red;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    margin-top: 10px;
+    text-align :auto; background-color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: tomato;
+}
+div{
+    background-color:rgb(0, 0, 0) ;
+}
+*{
+       
+    padding-left: 1px;
+    padding-top: 1px;
+    padding-right: 1px;
+    padding-bottom: 1px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+form{
+    color: rgb(0, 0, 0);
+
+}
+body~p{
+	border:solid;
+    font-weight: bold;
+    background-color:red;
+    color: #fff;
+    padding: .5em;
+	font-family: Arial, Helvetica, sans-serif;
+
+}
